@@ -24,8 +24,6 @@ This project presents a blockchain-powered decentralized cloud storage system de
 - **Blockchain Logging Module**
 - **Smart Contract Balancer**
 
-> 📊 UML diagrams: Class, Use Case, Sequence, and Collaboration diagrams are used to model and plan the system structure.
-
 ---
 
 ## 💻 Tech Stack
@@ -56,42 +54,52 @@ This project presents a blockchain-powered decentralized cloud storage system de
 ##pip module requirements
 
 Django==2.1.7
-PyMySQL==0.9.3
-pycryptodome==3.23.0
-pyaes==1.6.1
-web3==5.31.3
-eth-account==0.5.9
-eth-abi==2.2.0
-eth-utils==1.10.0
-eth-keys==0.3.4
-rlp==2.0.1
-ipfshttpclient==0.4.13.2
-multiaddr==0.0.9
-varint==1.0.2
-jsonschema==4.17.3
-numpy==1.21.6
-pandas==1.3.5
-matplotlib==3.1.1
-scikit-learn==0.22.2.post1
-joblib==1.3.2
-PyPDF2==3.0.1
-python-docx==1.1.0
 
-  
+PyMySQL==0.9.3
+
+pycryptodome==3.23.0
+
+pyaes==1.6.1
+
+web3==5.31.3
+
+eth-account==0.5.9
+
+eth-abi==2.2.0
+
+eth-utils==1.10.0
+
+eth-keys==0.3.4
+
+rlp==2.0.1
+
+ipfshttpclient==0.4.13.2
+
+multiaddr==0.0.9
+
+varint==1.0.2
+
+jsonschema==4.17.3
+
+numpy==1.21.6
+
+pandas==1.3.5
+
+matplotlib==3.1.1
+
+scikit-learn==0.22.2.post1
+
+joblib==1.3.2
+
+PyPDF2==3.0.1
+
+python-docx==1.1.0
 
 ---
 
-## 🛠️ Installation & Run
+<img width="725" height="503" alt="image" src="https://github.com/user-attachments/assets/ac9d8211-23fb-42e0-8885-737054e5c5ff" />
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/decentralized-cloud-storage.git
 
-# Navigate to the project directory
-cd decentralized-cloud-storage
 
-# Install dependencies (if using Flask UI or other external modules)
-pip install -r requirements.txt
 
-# Run the main application
-python main.py
+
